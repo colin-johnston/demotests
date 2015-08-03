@@ -1,0 +1,3 @@
+ruby_version: 1.9.3-p545
+rerun_list:
+  - spec/flaky_spec.rb
